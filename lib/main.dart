@@ -11,12 +11,15 @@ class FlashChat extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      
 //      theme: ThemeData.dark().copyWith(
 //        textTheme: TextTheme(
 //          body1: TextStyle(color: Colors.lightBlueAccent),
 //        ),
 //      ),
 //      home: WelcomeScreen(),
+    
+
 
     theme: ThemeData.dark(),
       initialRoute: WelcomeScreen.id,
@@ -31,3 +34,5 @@ class FlashChat extends StatelessWidget {
     );
   }
 }
+
+
