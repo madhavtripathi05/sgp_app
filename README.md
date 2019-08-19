@@ -5,7 +5,7 @@ A new Flutter application.
 Screenshots:-
 ![welcome screen](https://drive.google.com/open?id=1TXPCsmaicdOmBz5OyRAhj_cJ98f_TSiU)
 ![login screen](https://drive.google.com/open?id=1Uuf70ohmvnGUWqAPhKUp7ANjfLnkLDgf)
-![Chat Screen](https://bit.ly/2TInrzr)
+![Chat Screen](https://github.com/madhavtripathi05/sgp_app/blob/master/ScreenShots/Screenshot_2)
 
 
 
