@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910336630405",
+    "firebase_url": "https://sgpapp-charusat.firebaseio.com",
+    "project_id": "sgpapp-charusat",
+    "storage_bucket": "sgpapp-charusat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910336630405:android:c7614e796bf193c8",
+        "android_client_info": {
+          "package_name": "com.sampleprojectapps.sgp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910336630405-m5ji5cvm47ihv63hoqdgad4dq1p4g9q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEr72LCja4X1eGXES17yP29BQhCM1KyEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910336630405-m5ji5cvm47ihv63hoqdgad4dq1p4g9q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
