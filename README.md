@@ -2,7 +2,14 @@
 
 A new Flutter application.
 
-## Getting Started
+Screenshots:-
+![welcome screen](https://drive.google.com/open?id=1TXPCsmaicdOmBz5OyRAhj_cJ98f_TSiU)
+![login screen](https://drive.google.com/open?id=1Uuf70ohmvnGUWqAPhKUp7ANjfLnkLDgf)
+![Chat Screen](https://drive.google.com/open?id=1NZxjCbGMYcglGjnU-GrlYJZakgBV8Bqj)
+
+
+
+## Getting Started??
 
 This project is a starting point for a Flutter application.
 
