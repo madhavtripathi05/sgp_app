@@ -5,6 +5,8 @@ import 'chat_screen.dart';
 import 'package:sgp_app/constants.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 
+String error;
+
 class RegistrationScreen extends StatefulWidget {
   static const String id = 'registration_screen';
   @override
@@ -12,16 +14,16 @@ class RegistrationScreen extends StatefulWidget {
 }
 
 class _RegistrationScreenState extends State<RegistrationScreen> {
+  final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
   bool showSpinner = false;
   String email;
   String password;
   FirebaseAuth _auth = FirebaseAuth.instance;
-  String error;
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-//      backgroundColor: Colors.white,
+      key: _scaffoldKey,
       body: ModalProgressHUD(
         inAsyncCall: showSpinner,
         child: Padding(
@@ -84,6 +86,18 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                     });
                   } catch (e) {
                     print(e);
+                    setState(() {
+                      error = e.toString();
+                      _scaffoldKey.currentState.showSnackBar(SnackBar(
+                        content: Text('Error' + error),
+                        duration: Duration(seconds: 100),
+                        action: SnackBarAction(
+                            label: "retry",
+                            onPressed: () {
+                              Navigator.pop(context);
+                            }),
+                      ));
+                    });
                   }
                 },
               ),

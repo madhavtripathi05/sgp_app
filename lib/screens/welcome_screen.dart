@@ -3,7 +3,7 @@ import 'registration_screen.dart';
 import 'login_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:sgp_app/components/RoundedButtons.dart';
-import 'achievements_screen.dart';
+// import 'achievements_screen.dart';
 import 'offline_json.dart';
 
 class WelcomeScreen extends StatefulWidget {

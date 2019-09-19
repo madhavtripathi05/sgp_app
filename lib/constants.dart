@@ -4,7 +4,6 @@ const kSendButtonTextStyle = TextStyle(
   color: Colors.blue,
   fontWeight: FontWeight.bold,
   fontSize: 18.0,
-
 );
 
 const kMessageTextFieldDecoration = InputDecoration(
@@ -20,7 +19,7 @@ const kMessageContainerDecoration = BoxDecoration(
 );
 
 const kTextStyleForJson = TextStyle(
-  fontSize: 15.0,
+  fontSize: 14.0,
   fontWeight: FontWeight.w600,
   
 );

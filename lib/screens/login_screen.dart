@@ -16,11 +16,13 @@ class _LoginScreenState extends State<LoginScreen> {
   String password;
   FirebaseAuth _auth = FirebaseAuth.instance;
   bool showSpinner = false;
+  String error;
+  final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-//      backgroundColor: Colors.white,
+      key: _scaffoldKey,
       body: ModalProgressHUD(
         inAsyncCall: showSpinner,
         child: Padding(
@@ -83,9 +85,18 @@ class _LoginScreenState extends State<LoginScreen> {
                     });
                   } catch (e) {
                     print(e);
-                    SnackBar(
-                      content: Text(e.toString()),
-                    );
+                    setState(() {
+                      error = e.toString();
+                      _scaffoldKey.currentState.showSnackBar(SnackBar(
+                        content: Text('Error' + error),
+                        duration: Duration(seconds: 100),
+                        action: SnackBarAction(
+                            label: "retry",
+                            onPressed: () {
+                              Navigator.pop(context);
+                            }),
+                      ));
+                    });
                   }
                 },
               ),
