@@ -57,7 +57,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   ),
                 ),
                 TypewriterAnimatedTextKit(
-                  text: [' Chat App'],
+                  text: [' SGP App'],
                   textStyle: TextStyle(
                     color: Colors.lightBlueAccent,
                     fontSize: 45.0,
