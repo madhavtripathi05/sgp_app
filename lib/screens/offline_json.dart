@@ -75,7 +75,8 @@ class _OfflineJsonState extends State<OfflineJson> {
                     ),
                   );
                 },
-                itemCount: data == null ? 0 : 50 /*data.length */,
+                itemCount: data == null ? 0 : data.length,
+                
               );
             },
           ),
