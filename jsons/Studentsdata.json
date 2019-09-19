@@ -1,0 +1,4952 @@
+[
+  {
+    "A": "Sr. no.",
+    "B": "Student Name",
+    "C": "ID no",
+    "D": "Achievement",
+    "E": "Month",
+    "F": "Year",
+    "G": "Organized by"
+  },
+  {
+    "A": "1",
+    "B": "Rushirajsinh Parmar",
+    "C": "17dce036",
+    "D": "Campus ambassador for Geeksfor geeks",
+    "E": "December",
+    "F": "2018",
+    "G": "geeksforgeeks"
+  },
+  {
+    "A": "2",
+    "B": "Darshil Bhatt",
+    "C": "D18DIT073",
+    "D": "Won 1st Prize in Projections 2018 at Parul University",
+    "E": "April",
+    "F": "2018",
+    "G": "Parul University"
+  },
+  {
+    "A": "3",
+    "B": "Darshil Bhatt",
+    "C": "D18DIT073",
+    "D": "Attended a Multiculture Negotiations Program at Bern University,Switzerland as International Relation Officer",
+    "E": "March",
+    "F": "2018",
+    "G": "Bern University Of Applied Science and Technology, Bern, Switzerland"
+  },
+  {
+    "A": "4",
+    "B": "Darshil Bhatt",
+    "C": "D18DIT073",
+    "D": "Applied for Research Fellowship Program at ETH University,Zurich,Switzerland for Parallel and Cloud Computing  ",
+    "E": "July",
+    "F": "2019",
+    "G": "ETH University, Zurich, Switzerland"
+  },
+  {
+    "A": "5",
+    "B": "Keyur Makwana",
+    "C": "18DCE051",
+    "D": "Campus Ambassador for AICRA(Going On)",
+    "E": "January",
+    "F": "2019",
+    "G": "AICRA"
+  },
+  {
+    "A": "6",
+    "B": "Keyur Makwana",
+    "C": "18DCE051",
+    "D": "Campus Ambassador for Techfest IIT Bombay(Completed)",
+    "E": "April",
+    "F": "2018",
+    "G": "IIT Bomabay"
+  },
+  {
+    "A": "7",
+    "B": "Keyur Makwana",
+    "C": "18DCE051",
+    "D": "Attended a workshop at IIT Delhi",
+    "E": "September",
+    "F": "2018",
+    "G": "IIT Delhi"
+  },
+  {
+    "A": "8",
+    "B": "Keyur Makwana",
+    "C": "18DCE051",
+    "D": "Campus Ambassador for QUARK BITS GOA(Complete soon)",
+    "E": "November",
+    "F": "2018",
+    "G": "BITS GOA"
+  },
+  {
+    "A": "9",
+    "B": "Keyur Makwana",
+    "C": "18DCE051",
+    "D": "Being connected with hiddenramp ",
+    "E": "October",
+    "F": "2018",
+    "G": "hiddenramp"
+  },
+  {
+    "A": "10",
+    "B": "Jash Tewani",
+    "C": "18DIT078",
+    "D": "Attended Google android workshop at IIT Bombay",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "11",
+    "B": "Zeel Punjabi",
+    "C": "18DIT064",
+    "D": "won quiz competition",
+    "E": "September",
+    "F": "2017",
+    "G": "agasti education"
+  },
+  {
+    "A": "",
+    "B": "Zeel Punjabi",
+    "C": "18DIT064",
+    "D": "school tribal fest comp.",
+    "E": "January",
+    "F": "2017",
+    "G": "kharod public school"
+  },
+  {
+    "A": "12",
+    "B": "Yash Dave",
+    "C": "18dce018",
+    "D": "orator of the year for two continuous years.",
+    "E": "May",
+    "F": "2017",
+    "G": "SHV Academy"
+  },
+  {
+    "A": "13",
+    "B": "Yash Dave",
+    "C": "18dce018",
+    "D": "debate master ",
+    "E": "October",
+    "F": "2017",
+    "G": "SHV Academy"
+  },
+  {
+    "A": "14",
+    "B": "Kenil Patel",
+    "C": "18DIT051",
+    "D": "Attended Ethical Hacking workshop at IIT Bombay",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "15",
+    "B": "Dhruvam Zaveri",
+    "C": "18DCS135",
+    "D": "campus ambassador for internshala",
+    "E": "December",
+    "F": "2018",
+    "G": "internshala"
+  },
+  {
+    "A": "16",
+    "B": "Darshil Bhatt",
+    "C": "D18DIT073",
+    "D": "Certified Cloud Infrastructure Architecht",
+    "E": "January",
+    "F": "2019",
+    "G": "Prakshal Infotech Private Lmt."
+  },
+  {
+    "A": "17",
+    "B": "Darshil Bhatt",
+    "C": "D18DIT073",
+    "D": "Certified Attendie of Red Hat Certified Server Associate ",
+    "E": "January",
+    "F": "2019",
+    "G": "Red Hat Pvt. Lmt."
+  },
+  {
+    "A": "18",
+    "B": "Shaktisinh Jhala",
+    "C": "17DCE017",
+    "D": "HackerEarth Campus Ambassador",
+    "E": "September",
+    "F": "2018",
+    "G": "HackerEarth"
+  },
+  {
+    "A": "19",
+    "B": "Shaktisinh Jhala",
+    "C": "17DCE017",
+    "D": "Selected for Web Development internship(Remote)",
+    "E": "January",
+    "F": "2019",
+    "G": "The Sparks Foundation, Singapore"
+  },
+  {
+    "A": "20",
+    "B": "Shaktisinh Jhala",
+    "C": "17DCE017",
+    "D": "Android Beta Testing and User Experience Internship (remote)",
+    "E": "February",
+    "F": "2018",
+    "G": "Kriger Campus organization"
+  },
+  {
+    "A": "21",
+    "B": "Shaktisinh Jhala",
+    "C": "17DCE017",
+    "D": "ISP 9.0",
+    "E": "March",
+    "F": "2018",
+    "G": "Internshala"
+  },
+  {
+    "A": "22",
+    "B": "Shaktisinh Jhala",
+    "C": "17DCE017",
+    "D": "Campus Ambassador",
+    "E": "November",
+    "F": "2017",
+    "G": "Wooplr private Ldt"
+  },
+  {
+    "A": "23",
+    "B": "Janviba Jhala",
+    "C": "17DCE016",
+    "D": "Android Beta Testing and User Experience Internship (remote)",
+    "E": "June",
+    "F": "2018",
+    "G": "Kriger Campus organization"
+  },
+  {
+    "A": "24",
+    "B": "Samaksh Khatri",
+    "C": "18DCS035",
+    "D": "Attended Android Workshop at IIT Bombay",
+    "E": "November",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "25",
+    "B": "Princess kachhadiya ",
+    "C": "18DIT020",
+    "D": "secured 2nd position in NSO ,3rd position in IMO and 3rd position in khelmaha Kumbh (chess) ",
+    "E": "November",
+    "F": "2017",
+    "G": "organized by SOF"
+  },
+  {
+    "A": "26",
+    "B": "Samaksh Khatri",
+    "C": "18DCS035",
+    "D": "Attended Mixed Reality Workshop conducted by Mozilla at Cognizance 2018",
+    "E": "September",
+    "F": "",
+    "G": "Mozilla"
+  },
+  {
+    "A": "27",
+    "B": "Hardik Chavda",
+    "C": "18DCS013",
+    "D": "Got b grade certificate for art by gujarat goverment ,won 1st and 2nd price in scitoon ary completion held in aribas ,attended the virtual reality workshop which held in depstar",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "28",
+    "B": "yash Shah ",
+    "C": "18DIT070",
+    "D": "core member of creative and innovative club, Mozilla workshop ",
+    "E": "September",
+    "F": "2018",
+    "G": "mozilla"
+  },
+  {
+    "A": "29",
+    "B": "Somayajula Ramyasai",
+    "C": "18DIT074",
+    "D": "certificate from rock school london for keyboards",
+    "E": "September",
+    "F": "2017",
+    "G": "Rock school London"
+  },
+  {
+    "A": "30",
+    "B": "Palan Khimani ",
+    "C": "18DIT026",
+    "D": "2 certificates at state level in badminton and 1 certificate at state level in football",
+    "E": "September",
+    "F": "2017",
+    "G": "Government of India"
+  },
+  {
+    "A": "31",
+    "B": "Foram Thakkar",
+    "C": "17DCS065",
+    "D": "3 times state champion in chess",
+    "E": "",
+    "F": "",
+    "G": "Gujarat State Chess Association"
+  },
+  {
+    "A": "32",
+    "B": "Foram Thakkar",
+    "C": "17DCS065",
+    "D": "3 times state Champion in Chess",
+    "E": "",
+    "F": "",
+    "G": "Government of Gujarat"
+  },
+  {
+    "A": "33",
+    "B": "Foram Thakkar",
+    "C": "17DCS065",
+    "D": "3 times runner up and 2 times second runner up in Khel Mahakumbh Chess",
+    "E": "",
+    "F": "",
+    "G": "Government of Gujarat"
+  },
+  {
+    "A": "34",
+    "B": "Foram Thakkar ",
+    "C": "17DCS065",
+    "D": "7 times runner up and 5 times second runner up in state Championship in Chess",
+    "E": "",
+    "F": "",
+    "G": "Gujarat State Chess Association"
+  },
+  {
+    "A": "35",
+    "B": "Foram Thakkar",
+    "C": "17DCS065",
+    "D": "3rd in Nationals in Chess",
+    "E": "",
+    "F": "",
+    "G": "School Games Federation of India"
+  },
+  {
+    "A": "36",
+    "B": "Bhavya Gupta ",
+    "C": "17DIT012",
+    "D": "Internship in OYO Rooms ",
+    "E": "August",
+    "F": "2018",
+    "G": "Oyo Rooms "
+  },
+  {
+    "A": "37",
+    "B": "Ladvaiya Nikunj",
+    "C": "17DIT020",
+    "D": "CHAMPIONS in kabbadi (JUSTICELEAGUE 2018)",
+    "E": "February",
+    "F": "2018",
+    "G": "Gujarat National law University (GNLU), GANDHINAGAR "
+  },
+  {
+    "A": "38",
+    "B": "Ladvaiya Nikunj",
+    "C": "17DIT020",
+    "D": "Semifinalist in kabbadi (PETRO CUP 2018)",
+    "E": "February",
+    "F": "2018",
+    "G": "Pandit Deendayal petroleum University (PDPU), GANDHINAGAR "
+  },
+  {
+    "A": "39",
+    "B": "Ladvaiya Nikunj ",
+    "C": "17DIT020",
+    "D": "Runnersup in kabbadi (KHEL MAHAKUMBH 2019)",
+    "E": "September",
+    "F": "2019",
+    "G": "Sports Authority of Gujarat "
+  },
+  {
+    "A": "40",
+    "B": "karasariya jenish",
+    "C": "18dce041",
+    "D": "campus ambassador for esummit iit roorkee",
+    "E": "December",
+    "F": "2018",
+    "G": "iit roorkee"
+  },
+  {
+    "A": "41",
+    "B": "Imran ",
+    "C": "17dit019 ",
+    "D": "Campus Ambassador ",
+    "E": "June",
+    "F": "2018",
+    "G": "HackerEarth"
+  },
+  {
+    "A": "42",
+    "B": "Dhruv Patel",
+    "C": "18dcs067",
+    "D": "Achieved 4th rank in National Harmonium Playing competition",
+    "E": "May",
+    "F": "2017",
+    "G": "Akhil Bharatiya Sanskrutik Sangh, Pune"
+  },
+  {
+    "A": "43",
+    "B": "Yash Paneliya",
+    "C": "18dcs058",
+    "D": "2nd in Go and Hunt (coding treasure hunt) in cognizance 2018",
+    "E": "September",
+    "F": "2018",
+    "G": "CHARUSAT"
+  },
+  {
+    "A": "44",
+    "B": "Yash Paneliya",
+    "C": "18dcs058",
+    "D": "Attended Android Workshop at IIT Bombay",
+    "E": "November",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "45",
+    "B": "Kanika Aggarwal",
+    "C": "18dcs002",
+    "D": "Attended Mixed Reality Workshop conducted by Mozilla at Cognizance 2018",
+    "E": "September",
+    "F": "2018",
+    "G": "Mozilla"
+  },
+  {
+    "A": "46",
+    "B": "Vrushik Patel ",
+    "C": "18dce094 ",
+    "D": "Attended Ethical Hacking workshop at IIT Bombay",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "47",
+    "B": "Kush G Patel",
+    "C": "mk18dce081",
+    "D": "Attended Google Android workshop at IIT Bombay",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "48",
+    "B": "Priyanshi Patel ",
+    "C": "18DCS078",
+    "D": "first prize in infinity war in cognizance ",
+    "E": "September",
+    "F": "2018",
+    "G": "CHARUSAT"
+  },
+  {
+    "A": "49",
+    "B": "Dhruvil Thaker",
+    "C": "D18DCE079",
+    "D": "Attended workshop on Deep Learning for visual Computing",
+    "E": "December",
+    "F": "2018",
+    "G": "DEPSTAR, CHARUSAT"
+  },
+  {
+    "A": "50",
+    "B": "Shivam Sompura",
+    "C": "D18DCE080",
+    "D": "Attended workshop on Deep Learning for visual Computing",
+    "E": "December",
+    "F": "2018",
+    "G": "DEPSTAR, CHARUSAT"
+  },
+  {
+    "A": "51",
+    "B": "Japan Joshi",
+    "C": "D18DCE082",
+    "D": "Attended workshop on Deep Learning for visual Computing",
+    "E": "December",
+    "F": "2018",
+    "G": "DEPSTAR, CHARUSAT"
+  },
+  {
+    "A": "52",
+    "B": "Rohan Mehta",
+    "C": "17DCE027",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "53",
+    "B": "Pramay Modi",
+    "C": "17DCE029",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "54",
+    "B": "Dhruvi Bavaria",
+    "C": "17DCE002",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "55",
+    "B": "Aditi Patel",
+    "C": "17DCE038",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "56",
+    "B": "Zala Tirthrajsinh",
+    "C": "17DCE070",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "57",
+    "B": "Ladva Ishan",
+    "C": "17DCE025",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "58",
+    "B": "Rahul Ka Patel",
+    "C": "17DCE020",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "59",
+    "B": "Ashay Kamdar",
+    "C": "17DCE022",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "60",
+    "B": "Himani Rabari",
+    "C": "17DCE057",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "61",
+    "B": "Devanshi Patel",
+    "C": "17DCE042",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "62",
+    "B": "Meha Naik",
+    "C": "17DCE031",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "63",
+    "B": "Helina Gandhi",
+    "C": "17DCE008",
+    "D": "CSI Gujarat state student convention",
+    "E": "February",
+    "F": "2018",
+    "G": "GCET, V.V.Nagar"
+  },
+  {
+    "A": "64",
+    "B": "Amit R Dubey",
+    "C": "17DCS011",
+    "D": "2nd priice in Programming (C & C++)",
+    "E": "February",
+    "F": "2018",
+    "G": "BITS, CSI VADODARA CHAPTER"
+  },
+  {
+    "A": "65",
+    "B": "Vrushit Bharucha",
+    "C": "17DCS004",
+    "D": "2nd priice in Programming (C & C++)",
+    "E": "February",
+    "F": "2018",
+    "G": "BITS, CSI VADODARA CHAPTER"
+  },
+  {
+    "A": "66",
+    "B": "Kishan Patel",
+    "C": "17DCS043",
+    "D": "2nd priice in Programming (C & C++)",
+    "E": "February",
+    "F": "2018",
+    "G": "BITS, CSI VADODARA CHAPTER"
+  },
+  {
+    "A": "67",
+    "B": "Priyanshi Patel ",
+    "C": "17DIT052",
+    "D": "Participated in codejam event of FELICIFIC 2018",
+    "E": "March",
+    "F": "2018",
+    "G": "DDU,Nadiad"
+  },
+  {
+    "A": "68",
+    "B": "Pratk Patel",
+    "C": "17DIT050",
+    "D": "Participated in codejam event of FELICIFIC 2018",
+    "E": "March",
+    "F": "2018",
+    "G": "DDU,Nadiad"
+  },
+  {
+    "A": "69",
+    "B": "Vimal Radadiya",
+    "C": "17DIT062",
+    "D": "Participated in codejam event of FELICIFIC 2018",
+    "E": "March",
+    "F": "2018",
+    "G": "DDU,Nadiad"
+  },
+  {
+    "A": "70",
+    "B": "Param Patel",
+    "C": "17DCS047",
+    "D": "Participated in Football Patro cup 2018",
+    "E": "February",
+    "F": "2018",
+    "G": "PDPU"
+  },
+  {
+    "A": "71",
+    "B": "Varada Nair",
+    "C": "18DCS052",
+    "D": "Secured 1st position in district level National Robotics Championship",
+    "E": "",
+    "F": "",
+    "G": "Orgainsed by ARK Technosolutions and Robokart.com in association with AMALGAM,IIT Madras"
+  },
+  {
+    "A": "72",
+    "B": "Varada Nair",
+    "C": "18DCS052",
+    "D": "Received gold medal in International GK Olympiad",
+    "E": "",
+    "F": "",
+    "G": "Orgainsed by Science Olympiad Foundation"
+  },
+  {
+    "A": "73",
+    "B": "Varada Nair",
+    "C": "18DCS052",
+    "D": "Received shield in Mohiniyattam dance in school",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "75",
+    "B": "Pratyush Rajpara ",
+    "C": "18DCE100",
+    "D": "Secured 1st rank in \" The Mind Fizz\" competition ",
+    "E": "October",
+    "F": "2018",
+    "G": "Organized by Computer Society of India ( CSI )"
+  },
+  {
+    "A": "76",
+    "B": "Denish Ranpariya ",
+    "C": "18DCE102",
+    "D": "Secured 1st rank in \" The Mind Fizz\" competition",
+    "E": "October",
+    "F": "2018",
+    "G": "Organized by Computer Society of India ( CSI )"
+  },
+  {
+    "A": "77",
+    "B": "Ayush Shah",
+    "C": "17DIT063",
+    "D": "Runners Up in Mimicry(Spoural'18)",
+    "E": "January",
+    "F": "2018",
+    "G": "Organized by CHARUSAT"
+  },
+  {
+    "A": "78",
+    "B": "SHUBHAM RAVAL",
+    "C": "18DCE104",
+    "D": "Elected as class representative",
+    "E": "October",
+    "F": "2018",
+    "G": "Organized by CHARUSAT"
+  },
+  {
+    "A": "79",
+    "B": "Vasu Godhaviya ",
+    "C": "18SCE033",
+    "D": "Attended Google Android Workshop ",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay "
+  },
+  {
+    "A": "80",
+    "B": "Vasu Godhaviya ",
+    "C": "18DCE033",
+    "D": "Attended Workshop Of Data mining and Blockchain",
+    "E": "September",
+    "F": "2018",
+    "G": "GCET, V.V. Nagar"
+  },
+  {
+    "A": "81",
+    "B": "Meet Boghani",
+    "C": "18DCE010",
+    "D": "Attended Google Android Workshop ",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT Bombay"
+  },
+  {
+    "A": "82",
+    "B": "Meet Boghani",
+    "C": "18DCE010",
+    "D": "Participated in CODE OF DUTY event in cognizance",
+    "E": "September",
+    "F": "2018",
+    "G": "organised by charusat"
+  },
+  {
+    "A": "",
+    "B": "Vasu Godhaviya ",
+    "C": "18DCE033",
+    "D": "Runners up in CODE OF DUTY event in cognizance and Finalist of MIND FIZZ event ",
+    "E": "September",
+    "F": "2018",
+    "G": "organised by Charusat"
+  },
+  {
+    "A": "83",
+    "B": "Udit kamdar",
+    "C": "18DCS032",
+    "D": "Attended workshop of data mining and blockchain",
+    "E": "September",
+    "F": "2018",
+    "G": "GCET, V.V. Nagar"
+  },
+  {
+    "A": "84",
+    "B": "Udit kamdar",
+    "C": "18dcs032",
+    "D": "Attended workshop of bigdata science ",
+    "E": "December",
+    "F": "2018",
+    "G": "IIT BOMBAY"
+  },
+  {
+    "A": "85",
+    "B": "Udit kamdar",
+    "C": "18dcs032",
+    "D": " 2 time Champion in district lvl and 1 time 3rd rank in state lvl",
+    "E": "",
+    "F": "",
+    "G": "Sports authority of gujarat"
+  },
+  {
+    "A": "86",
+    "B": "Udit kamdar",
+    "C": "18dcs032",
+    "D": "state champion(u-17 and u-19) in chess and selected for nationals many times",
+    "E": "",
+    "F": "",
+    "G": "Gujarat state chess association "
+  },
+  {
+    "A": "87",
+    "B": "Udit kamdar",
+    "C": "18dcs032",
+    "D": "2 times bronze medalist at national level(chess)",
+    "E": "",
+    "F": "",
+    "G": "SGFI"
+  },
+  {
+    "A": "88",
+    "B": "Het Galia",
+    "C": "18dcs024",
+    "D": "Attended workshop of AWS Educate on  cloud computing. ",
+    "E": "",
+    "F": "2018",
+    "G": "organized by CHARUSAT"
+  },
+  {
+    "A": "89",
+    "B": "Rutwik Patel",
+    "C": "17dce048",
+    "D": "Campus ambassador of apogee (BITS Pilani)",
+    "E": "January",
+    "F": "2019",
+    "G": "BITS Pilani"
+  },
+  {
+    "A": "90",
+    "B": "Darshil Shah",
+    "C": "17DIT064",
+    "D": "Campus Ambdassador Hackerearth",
+    "E": "",
+    "F": "",
+    "G": "Hackerearth"
+  },
+  {
+    "A": "91",
+    "B": "Darshil Shah",
+    "C": "17DIT064",
+    "D": "Cleared Nptel certification\"Introduction to C programming\"",
+    "E": "",
+    "F": "2017",
+    "G": "NPTEL"
+  },
+  {
+    "A": "92",
+    "B": "Darshil Shah",
+    "C": "17DIT064",
+    "D": "Cleared Nptel certification\"Introduction to Modern Application Development\"",
+    "E": "",
+    "F": "2018",
+    "G": "NPTEL"
+  },
+  {
+    "A": "93",
+    "B": "Darshil Shah",
+    "C": "17DIT064",
+    "D": "Cleared Nptel certification\"Introduction to c++ programing\"",
+    "E": "",
+    "F": "2018",
+    "G": "NPTEL"
+  },
+  {
+    "A": "94",
+    "B": "Priyanshi Patel ",
+    "C": "17DIT052",
+    "D": "Cleared Nptel certification\"Introduction to c++ programing\"",
+    "E": "",
+    "F": "2018",
+    "G": "NPTEL"
+  },
+  {
+    "A": "",
+    "B": "Yash Paneliya",
+    "C": "18dcs058",
+    "D": "Attended workshop for Website development using Wordpress",
+    "E": "February",
+    "F": "2019",
+    "G": "CSI "
+  },
+  {
+    "A": "",
+    "B": "Rushi Patel",
+    "C": "17dit053",
+    "D": "Cleared Nptel certification\"Introduction to C programming\"",
+    "E": "",
+    "F": "2017",
+    "G": "NPTEL"
+  },
+  {
+    "A": "",
+    "B": "Rushi Patel",
+    "C": "17dit053",
+    "D": "Cleared Nptel certification\"Introduction to c++ programing\"",
+    "E": "",
+    "F": "2018",
+    "G": "NPTEL"
+  },
+  {
+    "A": "",
+    "B": "Rushi Patel",
+    "C": "17dit053",
+    "D": "Cleared Nptel certification\"Introduction to Modern Application Development\"",
+    "E": "",
+    "F": "2018",
+    "G": "NPTEL"
+  },
+  {
+    "A": "",
+    "B": "Rushi Patel",
+    "C": "17dit053",
+    "D": "Research Paper on \"Smart Garbage Segregation system using IOT\" Published in AJCT Journal",
+    "E": "",
+    "F": "2019",
+    "G": "AJCT Journal"
+  },
+  {
+    "A": "",
+    "B": "Rakshit Kachhadiya",
+    "C": "18DCE037",
+    "D": "Participated In Infinity War in Cognizance.",
+    "E": "September",
+    "F": "2018",
+    "G": "Organised By Charusat"
+  },
+  {
+    "A": "",
+    "B": "Rakshit Kachhadiya",
+    "C": "18DCE037",
+    "D": "Core Committee Member of Coding Club. ",
+    "E": "November",
+    "F": "2018",
+    "G": "Charusat"
+  },
+  {
+    "A": "",
+    "B": "Rakshit Kachhadiya",
+    "C": "18DCE037",
+    "D": "Sub Member of Outdoor Club",
+    "E": "November",
+    "F": "2018",
+    "G": "Charusat"
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  },
+  {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "",
+    "F": "",
+    "G": ""
+  }
+]

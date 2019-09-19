@@ -30,6 +30,8 @@ dependencies:
   cloud_firestore: any
 
   modal_progress_hud: ^0.1.3
+  fluttertoast: ^3.1.0
+
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +51,7 @@ flutter:
 
   assets:
     - images/
+    - jsons/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

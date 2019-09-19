@@ -15,7 +15,7 @@ class _LoginScreenState extends State<LoginScreen> {
   String email;
   String password;
   FirebaseAuth _auth = FirebaseAuth.instance;
-  bool showSpinner =false;
+  bool showSpinner = false;
 
   @override
   Widget build(BuildContext context) {
@@ -45,9 +45,10 @@ class _LoginScreenState extends State<LoginScreen> {
                 textAlign: TextAlign.center,
                 keyboardType: TextInputType.emailAddress,
                 onChanged: (value) {
-                  email=value;
+                  email = value;
                 },
-                decoration: kTextFieldDecoration.copyWith(hintText: 'Enter your Email'),
+                decoration:
+                    kTextFieldDecoration.copyWith(hintText: 'Enter your Email'),
               ),
               SizedBox(
                 height: 8.0,
@@ -56,32 +57,38 @@ class _LoginScreenState extends State<LoginScreen> {
                 textAlign: TextAlign.center,
                 obscureText: true,
                 onChanged: (value) {
-                  password=value;
+                  password = value;
                 },
                 decoration: kTextFieldDecoration.copyWith(
-                    hintText: 'Enter your Password',
-                fillColor: Colors.blue),
+                    hintText: 'Enter your Password', fillColor: Colors.blue),
               ),
               SizedBox(
                 height: 24.0,
               ),
-           RoundedButton(title: 'log in', color: Colors.lightBlueAccent,
-             onPressed: ()async{
-             setState(() {
-               showSpinner=true;
-             });
-             try{
-               final newUser = await _auth.signInWithEmailAndPassword(email: email, password: password);
-               if(newUser != null){
-                 Navigator.pushNamed(context, ChatScreen.id);
-               }
-               setState(() {
-                 showSpinner = false;
-               });
-             } catch(e){
-               print(e);
-             }
-           },),
+              RoundedButton(
+                title: 'log in',
+                color: Colors.lightBlueAccent,
+                onPressed: () async {
+                  setState(() {
+                    showSpinner = true;
+                  });
+                  try {
+                    final newUser = await _auth.signInWithEmailAndPassword(
+                        email: email, password: password);
+                    if (newUser != null) {
+                      Navigator.pushNamed(context, ChatScreen.id);
+                    }
+                    setState(() {
+                      showSpinner = false;
+                    });
+                  } catch (e) {
+                    print(e);
+                    SnackBar(
+                      content: Text(e.toString()),
+                    );
+                  }
+                },
+              ),
             ],
           ),
         ),

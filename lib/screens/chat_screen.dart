@@ -172,7 +172,7 @@ class MessageBubble extends StatelessWidget {
 
   final String sender;
   final String text;
-  bool isMe;
+  final bool isMe;
 
   @override
   Widget build(BuildContext context) {
@@ -193,7 +193,7 @@ class MessageBubble extends StatelessWidget {
                 topLeft: isMe?Radius.circular(30):Radius.zero,
                 bottomLeft: Radius.circular(30),
                 bottomRight: Radius.circular(30),
-                topRight: !isMe?Radius.circular(30):Radius.zero,
+                topRight: !(isMe)?Radius.circular(30):Radius.zero,
               ),
               elevation: 5.0,
               color: isMe?Colors.blue:Colors.white,
