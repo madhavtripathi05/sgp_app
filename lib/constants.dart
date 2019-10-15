@@ -21,9 +21,12 @@ const kMessageContainerDecoration = BoxDecoration(
 const kTextStyleForJson = TextStyle(
   fontSize: 14.0,
   fontWeight: FontWeight.w600,
-  
 );
 
+const kTextStyleForJson1 = TextStyle(
+  fontSize: 16.0,
+  fontWeight: FontWeight.w700,
+);
 const kTextFieldDecoration = InputDecoration(
   hintText: 'something',
   contentPadding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),

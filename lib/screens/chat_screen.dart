@@ -11,11 +11,12 @@ class ChatScreen extends StatefulWidget {
 
 final _firestore = Firestore.instance;
 FirebaseUser loggedInUser;
-
+ String field;
 class _ChatScreenState extends State<ChatScreen> {
+  
   final messageTextController = TextEditingController();
   final _auth = FirebaseAuth.instance;
-
+String chatField = field.substring(1).toUpperCase();
   String messageText;
 
   @override
@@ -45,7 +46,7 @@ class _ChatScreenState extends State<ChatScreen> {
 //  }
 
   void messagesStream() async {
-    await for (var snapshot in _firestore.collection('messages').snapshots()) {
+    await for (var snapshot in _firestore.collection('messages$field').snapshots()) {
       for (var message in snapshot.documents) {
         print(message.data);
       }
@@ -66,7 +67,7 @@ class _ChatScreenState extends State<ChatScreen> {
 //                messagesStream();
               }),
         ],
-        title: Text('Chat Screen'),
+        title: Text('$chatField ChatScreen'),
         backgroundColor: Colors.blue,
       ),
       body: SafeArea(
@@ -92,7 +93,7 @@ class _ChatScreenState extends State<ChatScreen> {
                   FlatButton(
                     onPressed: () {
                       messageTextController.clear();
-                      _firestore.collection('messages').add({
+                      _firestore.collection('messages$field').add({
                         'text': messageText,
                         'sender': loggedInUser.email,
                         'date': DateTime.now().toIso8601String().toString(),
@@ -117,7 +118,7 @@ class MessageStream extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return StreamBuilder<QuerySnapshot>(
-      stream: _firestore.collection('messages').orderBy('date').snapshots(),
+      stream: _firestore.collection('messages$field').orderBy('date').snapshots(),
       builder: (context, snapshot) {
         if (!snapshot.hasData) {
           return Center(
@@ -171,7 +172,7 @@ class MessageBubble extends StatelessWidget {
             isMe ? CrossAxisAlignment.end : CrossAxisAlignment.start,
         children: <Widget>[
           Text(
-            sender,
+            sender.substring(0,8),
             style: TextStyle(fontSize: 10.0, color: Colors.blue),
           ),
           Material(

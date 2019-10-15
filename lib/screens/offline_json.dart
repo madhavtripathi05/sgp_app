@@ -1,6 +1,34 @@
 import 'dart:convert';
 import 'package:sgp_app/constants.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_database/firebase_database.dart';
+// import 'package:sgp_app/screens/achievements_screen.dart';
+
+class AchievementEntry {
+  String key;
+  String A;
+  String B;
+  String C;
+  String D;
+  String E;
+  String F;
+  String G;
+  AchievementEntry(this.A, this.B, this.C, this.D, this.E, this.F, this.G);
+
+  String getA() {
+    return A;
+  }
+
+  AchievementEntry.fromSnapshot(DataSnapshot snapshot)
+      : key = snapshot.key,
+        A = snapshot.value["A"],
+        B = snapshot.value["B"],
+        C = snapshot.value["C"],
+        D = snapshot.value["D"],
+        E = snapshot.value["E"],
+        F = snapshot.value["F"],
+        G = snapshot.value["G"];
+}
 
 class OfflineJson extends StatefulWidget {
   static final String id = 'offline_json';
@@ -11,22 +39,43 @@ class OfflineJson extends StatefulWidget {
 class _OfflineJsonState extends State<OfflineJson> {
   // GlobalKey<ScaffoldState> _scaffoldState = GlobalKey<ScaffoldState>();
 
+  final mainReference = FirebaseDatabase.instance
+      .reference()
+      .orderByChild('created_at')
+      .limitToFirst(10);
+  List<AchievementEntry> aList = new List();
+
+// _OfflineJsonState(){
+//   mainReference.onChildAdded.listen(_onEntryAdded);
+// }
+
+//   _onEntryAdded(Event event) {
+//     setState(() {
+//       aList.add(AchievementEntry.fromSnapshot(event.snapshot));
+//     });
+//   }
+
+  AchievementEntry ae;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('offline Json Loader'),
+        title: Text('Achievements'),
+        centerTitle: true,
       ),
       body: Container(
         child: Center(
           child: FutureBuilder(
-            future: DefaultAssetBundle.of(context)
-                .loadString('jsons/Studentsdata.json'),
+            future:
+                DefaultAssetBundle.of(context).loadString('jsons/news.json'),
             builder: (context, snapshot) {
               // json decode
               var data = jsonDecode(snapshot.data.toString());
+              // aList = snapshot.value;
               return ListView.builder(
-                padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 9.0),
+                scrollDirection: Axis.vertical,
+                padding: EdgeInsets.symmetric(vertical: 30.0, horizontal: 9.0),
                 itemBuilder: (BuildContext context, int index) {
                   return GestureDetector(
                     onLongPressEnd: (dynamic) {
@@ -35,6 +84,7 @@ class _OfflineJsonState extends State<OfflineJson> {
                     child: Card(
                       borderOnForeground: true,
                       elevation: 2.0,
+                      margin: EdgeInsets.only(bottom: 20),
                       // color: Colors.white12,
                       shape: OutlineInputBorder(
                         gapPadding: 5.0,
@@ -48,26 +98,15 @@ class _OfflineJsonState extends State<OfflineJson> {
                         textDirection: TextDirection.ltr,
                         children: <Widget>[
                           Text(
-                            "NAME : " + data[index]["B"],
+                            "Headline : " + data[index]["B"],
+                            style: kTextStyleForJson1,
+                          ),
+                          Text(
+                            "Content : " + data[index]["C"],
                             style: kTextStyleForJson,
                           ),
                           Text(
-                            "ID : " + data[index]["C"],
-                            style: kTextStyleForJson,
-                          ),
-                          Text(
-                            "ACHIEVEMENT : " + data[index]["D"],
-                            style: kTextStyleForJson,
-                          ),
-                          Text(
-                            "DATE : " +
-                                data[index]["E"] +
-                                '/' +
-                                data[index]["F"],
-                            style: kTextStyleForJson,
-                          ),
-                          Text(
-                            "ORGANIZED BY : " + data[index]["G"],
+                            "Date : " + data[index]["D"],
                             style: kTextStyleForJson,
                           ),
                         ],
@@ -75,8 +114,7 @@ class _OfflineJsonState extends State<OfflineJson> {
                     ),
                   );
                 },
-                itemCount: data == null ? 0 : data.length,
-                
+                itemCount: data == null ? 0 : 103,
               );
             },
           ),

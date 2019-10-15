@@ -2,11 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:sgp_app/components/RoundedButtons.dart';
 import 'package:sgp_app/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'chat_screen.dart';
+import 'package:sgp_app/dashboard.dart';
+import 'package:sgp_app/screens/chat_screen.dart';
+import 'package:sgp_app/screens/welcome_screen.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 
 class LoginScreen extends StatefulWidget {
-  static const String id = 'login_screen';
+  //static const String id = 'login_screen';
   @override
   _LoginScreenState createState() => _LoginScreenState();
 }
@@ -18,7 +20,34 @@ class _LoginScreenState extends State<LoginScreen> {
   bool showSpinner = false;
   String error;
   final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
+  String getField(String email){
+    //  String email ='18dcs129@charusat.edu.in';
+  String year = email.substring(0,2);
+  String field = email.substring(2,5);
+  int id = int.parse(email.substring(5,8));
+  String match = email.substring(9);
+  int length = email.length;
 
+if(year == '18' && match == 'charusat.edu.in' && id <400 && id > 0 && length == 24){
+  print('success');
+ 
+  if(field == 'dcs')
+    field = '_cs';
+  else if(field=='dce')
+    field = '_ce';
+  else if(field=='dit')
+    field = '_it';
+
+}
+  else{
+    print('please enter email address given by your institute');
+     field = 'invalid1';
+  }
+
+return field;
+  }
+
+ 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,7 +65,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   tag: 'Dlogo',
                   child: Container(
                     height: 200.0,
-                    child: Image.asset('images/chatBubbles.png'),
+                    child: Image.asset('images/Dlogo.jpg'),
                   ),
                 ),
               ),
@@ -48,6 +77,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 keyboardType: TextInputType.emailAddress,
                 onChanged: (value) {
                   email = value;
+                  // field = getField(email);
                 },
                 decoration:
                     kTextFieldDecoration.copyWith(hintText: 'Enter your Email'),
@@ -72,13 +102,16 @@ class _LoginScreenState extends State<LoginScreen> {
                 color: Colors.lightBlueAccent,
                 onPressed: () async {
                   setState(() {
+                    field=getField(email);
                     showSpinner = true;
                   });
                   try {
                     final newUser = await _auth.signInWithEmailAndPassword(
                         email: email, password: password);
                     if (newUser != null) {
-                      Navigator.pushNamed(context, ChatScreen.id);
+                      //Navigator.pushNamed(context, Dashboard.id);
+                      print(field);
+                      Navigator.push(context, MaterialPageRoute(builder: (context) => Dashboard()));
                     }
                     setState(() {
                       showSpinner = false;
@@ -93,7 +126,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         action: SnackBarAction(
                             label: "retry",
                             onPressed: () {
-                              Navigator.pop(context);
+                              Navigator.push(context, MaterialPageRoute(builder: (context) => WelcomeScreen()));
                             }),
                       ));
                     });

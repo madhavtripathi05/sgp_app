@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:sgp_app/screens/achievements_screen.dart';
 import 'registration_screen.dart';
 import 'login_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:sgp_app/components/RoundedButtons.dart';
-// import 'achievements_screen.dart';
-import 'offline_json.dart';
 
 class WelcomeScreen extends StatefulWidget {
   static const String id = 'welcome_screen';
@@ -52,17 +51,26 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 Hero(
                   tag: 'Dlogo',
                   child: Container(
-                    child: Image.asset('images/chatBubbles.png'),
+                    child: Image.asset(
+                      'images/Dlogo.jpg',
+                    ),
                     height: animation.value * 60,
                   ),
                 ),
-                TypewriterAnimatedTextKit(
-                  text: [' SGP App'],
-                  textStyle: TextStyle(
-                    color: Colors.lightBlueAccent,
-                    fontSize: 45.0,
-                    fontWeight: FontWeight.w900,
-                  ),
+                Row(
+                  children: <Widget>[
+                    SizedBox(
+                      width: 50.0,
+                    ),
+                    TypewriterAnimatedTextKit(
+                      text: [' Depstar'],
+                      textStyle: TextStyle(
+                        color: Colors.lightBlueAccent,
+                        fontSize: 40.0,
+                        fontWeight: FontWeight.w900,
+                      ),
+                    ),
+                  ],
                 ),
               ],
             ),
@@ -70,24 +78,31 @@ class _WelcomeScreenState extends State<WelcomeScreen>
               height: 48.0,
             ),
             RoundedButton(
-              title: 'log in',
+              title: 'Log In',
               color: Colors.lightBlueAccent,
               onPressed: () {
-                Navigator.pushNamed(context, LoginScreen.id);
+                Navigator.push(context,
+                    MaterialPageRoute(builder: (context) => LoginScreen()));
               },
             ),
             RoundedButton(
               title: 'Register',
               color: Colors.blue,
               onPressed: () {
-                Navigator.pushNamed(context, RegistrationScreen.id);
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => RegistrationScreen()));
               },
             ),
             RoundedButton(
               title: 'Achievements',
               color: Colors.blueAccent,
               onPressed: () {
-                Navigator.pushNamed(context, OfflineJson.id);
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => AchievementScreen()));
               },
             )
           ],
