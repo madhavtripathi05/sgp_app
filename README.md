@@ -3,9 +3,11 @@
 A new Flutter application.
 
 Screenshots:-
-![welcome screen](https://drive.google.com/open?id=1TXPCsmaicdOmBz5OyRAhj_cJ98f_TSiU)
-![login screen](https://drive.google.com/open?id=1Uuf70ohmvnGUWqAPhKUp7ANjfLnkLDgf)
-![Chat Screen](https://github.com/madhavtripathi05/sgp_app/blob/master/ScreenShots/Screenshot_2)
+![welcome screen](https://ibb.co/mRF6zfF)
+![login screen](https://ibb.co/xMy8T9q)
+![Chat Screen](https://ibb.co/HVtfNd1)
+![Achievements Screen](https://ibb.co/vvHpmYy)
+![Clubs Screen](https://ibb.co/fSfQwQ6)
 
 
 
